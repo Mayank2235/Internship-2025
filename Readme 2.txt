@@ -12,3 +12,4 @@ Day 11 Implementing Frontend
 Day 12 Fixing Bugs
 Day 13 Fixing Bugs
 Day 14 Solving The Task Given By the Senior
+Day 15 Implementing frontend 
