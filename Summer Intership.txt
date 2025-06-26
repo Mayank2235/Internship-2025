@@ -20,4 +20,5 @@ Day 19 Fixing Errors
 Day 20 Implementing Backend
 Day 21 Fixing issues in integration of frontend and backend
 Day 22 Fixing issues in integration of frontend and backend
-Day 23 Solving The task given by the Senior 
+Day 23 Solving The task given by the Senior
+Day 24 Making Changes in Frontend 
