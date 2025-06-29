@@ -24,3 +24,4 @@ Day 23 Solving The task given by the Senior
 Day 24 Making Changes in Frontend 
 Day 25 Fixing Changes in Backend
 Day 26 Working on Api
+Day 27 Solving The Task Given By the Senior
