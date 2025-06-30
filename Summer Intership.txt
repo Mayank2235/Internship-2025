@@ -16,8 +16,8 @@ Day 15 Implementing frontend
 Day 16 Starting with Backend
 Day 17 Fixing Errors
 Day 18 Solving The Task Given By the Senior
-Day 19 Fixing Errors
-Day 20 Implementing Backend
+Day 19 Implementing Backend
+Day 20 Making Changes in frontend 
 Day 21 Fixing issues in integration of frontend and backend
 Day 22 Fixing issues in integration of frontend and backend
 Day 23 Solving The task given by the Senior
@@ -25,3 +25,4 @@ Day 24 Making Changes in Frontend
 Day 25 Fixing Changes in Backend
 Day 26 Working on Api
 Day 27 Solving The Task Given By the Senior
+Day 28 Solving The Task Given By the Senior
