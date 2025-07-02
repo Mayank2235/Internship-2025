@@ -26,3 +26,8 @@ Day 25 Fixing Changes in Backend
 Day 26 Working on Api
 Day 27 Solving The Task Given By the Senior
 Day 28 Solving The Task Given By the Senior
+Day 29 Reviewing Codebase
+Day 30 Starting Unit Testing
+Day 31 Writing Test Cases
+Day 32 Fixing Bugs in Test Results
+Day 33 Solving The Task Given By the Senior
