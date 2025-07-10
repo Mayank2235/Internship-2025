@@ -1,36 +1,30 @@
-Day 1 INTRODUCTION
-Day 2 Starting with Database
-Day 3 Understanding the Schemas
-Day 4 Starting with SQL 
-Day 5 SQL 2
-Day 6 Solving The Task Given By the Senior
-Day 7 Starting with Frontend
-Day 8 learning Frontend
-Day 9 learning Frontend 2
-Day 10 Solving The Task Given By the Senior
-Day 11 Implementing Frontend 
-Day 12 Fixing Bugs
-Day 13 Fixing Bugs
-Day 14 Solving The Task Given By the Senior
-Day 15 Implementing frontend 
-Day 16 Starting with Backend
-Day 17 Fixing Errors
-Day 18 Solving The Task Given By the Senior
-Day 19 Fixing Errors
-Day 20 Implementing Backend
-Day 21 Fixing issues in integration of frontend and backend
-Day 22 Fixing issues in integration of frontend and backend
-Day 23 Solving The task given by the Senior
-Day 24 Making Changes in Frontend 
-Day 25 Fixing Changes in Backend
-Day 26 Working on Api
-Day 27 Solving The Task Given By the Senior
-Day 28 Solving The Task Given By the Senior
-Day 29 Reviewing Codebase
-Day 30 Starting Unit Testing
-Day 31 Writing Test Cases
-Day 32 Fixing Bugs in Test Results
-Day 33 Solving The Task Given By the Senior
-Day 34 Solving The Task Given By the Senior
-Day 35 Working on the API
-Day 36 Writing test case
+Day 1: Joined and got an intro to the team and tools.
+Day 2: Set up the database and tested connection.
+Day 3: Looked at the database schema and noted tables.
+Day 4: Learned basic SQL and ran simple queries.
+Day 5: Tried advanced SQL and shared my queries.
+Day 6: Finished a small SQL task given by the senior.
+Day 7: Set up the frontend project on my system.
+Day 8: Started learning HTML and CSS basics.
+Day 9: Practiced more on frontend layout and forms.
+Day 10: Completed a small frontend task from the senior.
+Day 11: Built a basic form and submitted it.
+Day 12: Fixed some layout issues with help.
+Day 13: Continued fixing bugs and testing UI.
+Day 14: Finished another frontend task.
+Day 15: Improved frontend with new changes.
+Day 16: Started backend setup and tested server.
+Day 17: Fixed some errors in backend setup.
+Day 18: Did a small backend task given by the senior.
+Day 19: Solved errors and tested the API.
+Day 20: Completed backend part and shared it.
+Day 21: Tried connecting frontend with backend.
+Day 22: Fixed some integration issues.
+Day 23: Completed a full-stack task.
+Day 24: Made UI changes as asked.
+Day 25: Fixed backend bugs and tested again.
+Day 26: Created simple API and tested with Postman.
+Day 27: Finished a task and pushed code.
+Day 28: Submitted last part of assigned work.
+Day 29: Went through all code and cleaned it up.
+Day 30: Project completed and handed over with notes.
